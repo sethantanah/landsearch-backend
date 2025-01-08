@@ -1,0 +1,119 @@
+2025-01-05 14:34:01,204 | INFO     | 4820 | 12104 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpsqoigpiu.tmp
+2025-01-05 14:34:01,701 | INFO     | 4820 | 12104 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:34:02,931 | INFO     | 4820 | 12104 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:34:02,932 | INFO     | 4820 | 12104 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:40:31,858 | INFO     | 21208 | 9512 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpj7cioev9.tmp
+2025-01-05 14:40:32,131 | INFO     | 21208 | 9512 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:40:33,643 | INFO     | 21208 | 9512 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:40:33,643 | INFO     | 21208 | 9512 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:42:08,234 | INFO     | 21208 | 9512 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpk6eccq9s.tmp
+2025-01-05 14:42:08,263 | INFO     | 21208 | 9512 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:42:09,411 | INFO     | 21208 | 9512 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:42:09,412 | INFO     | 21208 | 9512 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:43:47,682 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpfmsu4jrs.tmp
+2025-01-05 14:43:47,775 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:43:48,942 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:43:48,943 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:48:03,228 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpc_n75xud.tmp
+2025-01-05 14:48:03,318 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:48:04,610 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:48:04,611 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:48:46,377 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpuhr02je1.tmp
+2025-01-05 14:48:46,392 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:48:47,488 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:48:47,488 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:50:37,877 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpbkksfdvt.tmp
+2025-01-05 14:50:37,897 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:50:39,001 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:50:39,002 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 14:55:28,310 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp0vyd2m8y.tmp
+2025-01-05 14:55:28,322 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmp0vyd2m8y.tmp
+2025-01-05 14:55:32,952 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 14:55:34,288 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 14:55:34,288 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 15:03:38,262 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpufvy1c3_.tmp
+2025-01-05 15:03:38,296 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 15:03:39,382 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 15:03:39,382 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 15:50:06,765 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp0qh648ru.tmp
+2025-01-05 15:50:06,794 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmp0qh648ru.tmp
+2025-01-05 15:50:11,213 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 15:50:12,665 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 15:50:12,665 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 15:54:57,527 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpo4fpevrb.tmp
+2025-01-05 15:54:57,539 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpo4fpevrb.tmp
+2025-01-05 15:54:59,054 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 15:55:00,128 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 15:55:00,128 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 15:56:08,536 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpmafm1u3z.tmp
+2025-01-05 15:56:08,536 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpmafm1u3z.tmp
+2025-01-05 15:56:10,342 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 15:56:11,515 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 15:56:11,516 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 15:58:03,102 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp_sopm68r.tmp
+2025-01-05 15:58:03,133 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 15:58:04,022 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 15:58:04,023 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:07:20,894 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpc95689jl.tmp
+2025-01-05 16:07:20,941 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:07:21,934 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:07:21,934 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:10:46,873 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp9ffw2bhj.tmp
+2025-01-05 16:10:46,890 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmp9ffw2bhj.tmp
+2025-01-05 16:10:49,405 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:10:50,455 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:10:50,456 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:14:15,749 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpl_v9rqwu.tmp
+2025-01-05 16:14:15,760 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpl_v9rqwu.tmp
+2025-01-05 16:14:17,356 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:14:18,396 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:14:18,396 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:15:41,944 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpdzqxk9k5.tmp
+2025-01-05 16:15:41,965 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:15:42,911 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:15:42,912 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:17:21,040 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpx_wpgc8b.tmp
+2025-01-05 16:17:21,041 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpx_wpgc8b.tmp
+2025-01-05 16:17:22,535 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:17:23,487 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:17:23,489 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:19:48,777 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmps_faz9b3.tmp
+2025-01-05 16:19:48,811 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:19:49,963 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:19:49,963 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:31:18,369 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmprqnzy8_e.tmp
+2025-01-05 16:31:18,412 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:31:19,439 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:31:19,440 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:35:58,689 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp9q_8rvua.tmp
+2025-01-05 16:35:58,770 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:36:00,164 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:36:00,165 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:38:19,584 | INFO     | 3620 | 12844 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp1o6r_d4p.tmp
+2025-01-05 16:38:19,593 | INFO     | 3620 | 12844 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmp1o6r_d4p.tmp
+2025-01-05 16:38:22,999 | INFO     | 3620 | 12844 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:38:24,518 | INFO     | 3620 | 12844 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:38:24,520 | INFO     | 3620 | 12844 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 16:59:04,104 | INFO     | 16612 | 21560 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpyl088708.tmp
+2025-01-05 16:59:04,111 | INFO     | 16612 | 21560 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpyl088708.tmp
+2025-01-05 16:59:06,529 | INFO     | 16612 | 21560 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 16:59:07,814 | INFO     | 16612 | 21560 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 16:59:07,816 | INFO     | 16612 | 21560 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 17:02:15,658 | INFO     | 16612 | 21560 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpe36rxorm.tmp
+2025-01-05 17:02:15,659 | INFO     | 16612 | 21560 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpe36rxorm.tmp
+2025-01-05 17:02:17,191 | INFO     | 16612 | 21560 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 17:02:18,507 | INFO     | 16612 | 21560 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 17:02:18,508 | INFO     | 16612 | 21560 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 17:04:38,117 | INFO     | 16612 | 21560 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpbtgngxj1.tmp
+2025-01-05 17:04:38,137 | INFO     | 16612 | 21560 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 17:04:39,195 | INFO     | 16612 | 21560 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 17:04:39,197 | INFO     | 16612 | 21560 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 17:06:22,867 | INFO     | 8872 | 11164 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpu0ho91qx.tmp
+2025-01-05 17:06:22,869 | INFO     | 8872 | 11164 | document_processing.py:91 | _convert_pdf_to_image | Converting PDF to image: C:\Users\SETHAN~1\AppData\Local\Temp\tmpu0ho91qx.tmp
+2025-01-05 17:06:24,697 | INFO     | 8872 | 11164 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 17:06:25,879 | INFO     | 8872 | 11164 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 17:06:25,880 | INFO     | 8872 | 11164 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-05 17:07:44,954 | INFO     | 8872 | 11164 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp1aa9xud_.tmp
+2025-01-05 17:07:44,977 | INFO     | 8872 | 11164 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-05 17:07:45,966 | INFO     | 8872 | 11164 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-05 17:07:45,966 | INFO     | 8872 | 11164 | document_processing.py:195 | _process_image | Document processed successfully

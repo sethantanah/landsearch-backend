@@ -1,0 +1,46 @@
+2025-01-08 14:11:09,606 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 0: list index out of range
+2025-01-08 14:11:09,611 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 1: list index out of range
+2025-01-08 14:11:09,614 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 2: list index out of range
+2025-01-08 14:11:09,615 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 3: list index out of range
+2025-01-08 14:11:09,617 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 4: list index out of range
+2025-01-08 14:11:09,618 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:11:09,808 | ERROR    | 12564 | 21464 | site_data_processing.py:118 | find_reference_point | Error finding reference point: max() iterable argument is empty
+2025-01-08 14:11:09,808 | ERROR    | 12564 | 21464 | site_data_processing.py:326 | process_land_data | Error in process_land_data: max() iterable argument is empty
+2025-01-08 14:11:18,735 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 0: list index out of range
+2025-01-08 14:11:18,736 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 1: list index out of range
+2025-01-08 14:11:18,736 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 2: list index out of range
+2025-01-08 14:11:18,737 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 3: list index out of range
+2025-01-08 14:11:18,737 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 4: list index out of range
+2025-01-08 14:11:18,737 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:11:18,789 | ERROR    | 12564 | 21464 | site_data_processing.py:118 | find_reference_point | Error finding reference point: max() iterable argument is empty
+2025-01-08 14:11:18,789 | ERROR    | 12564 | 21464 | site_data_processing.py:326 | process_land_data | Error in process_land_data: max() iterable argument is empty
+2025-01-08 14:11:29,979 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 0: list index out of range
+2025-01-08 14:11:29,979 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 1: list index out of range
+2025-01-08 14:11:29,980 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 2: list index out of range
+2025-01-08 14:11:29,980 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 3: list index out of range
+2025-01-08 14:11:29,980 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 4: list index out of range
+2025-01-08 14:11:29,980 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:11:30,044 | ERROR    | 12564 | 21464 | site_data_processing.py:118 | find_reference_point | Error finding reference point: max() iterable argument is empty
+2025-01-08 14:11:30,044 | ERROR    | 12564 | 21464 | site_data_processing.py:326 | process_land_data | Error in process_land_data: max() iterable argument is empty
+2025-01-08 14:11:49,966 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:11:49,967 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 6: list index out of range
+2025-01-08 14:12:18,441 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:12:18,441 | ERROR    | 12564 | 21464 | site_data_processing.py:231 | process_land_data | Error processing point at index 6: list index out of range
+2025-01-08 14:27:58,325 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 0: list index out of range
+2025-01-08 14:27:58,327 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 1: list index out of range
+2025-01-08 14:27:58,328 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 2: list index out of range
+2025-01-08 14:27:58,329 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 3: list index out of range
+2025-01-08 14:27:58,329 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 4: list index out of range
+2025-01-08 14:27:58,330 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:27:58,331 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 6: list index out of range
+2025-01-08 14:27:58,501 | ERROR    | 6372 | 17836 | site_data_processing.py:118 | find_reference_point | Error finding reference point: max() iterable argument is empty
+2025-01-08 14:27:58,502 | ERROR    | 6372 | 17836 | site_data_processing.py:326 | process_land_data | Error in process_land_data: max() iterable argument is empty
+2025-01-08 14:28:06,947 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 0: list index out of range
+2025-01-08 14:28:06,947 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 1: list index out of range
+2025-01-08 14:28:06,947 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 2: list index out of range
+2025-01-08 14:28:06,947 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 3: list index out of range
+2025-01-08 14:28:06,947 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 4: list index out of range
+2025-01-08 14:28:06,948 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range
+2025-01-08 14:28:07,003 | ERROR    | 6372 | 17836 | site_data_processing.py:118 | find_reference_point | Error finding reference point: max() iterable argument is empty
+2025-01-08 14:28:07,003 | ERROR    | 6372 | 17836 | site_data_processing.py:326 | process_land_data | Error in process_land_data: max() iterable argument is empty
+2025-01-08 14:28:20,908 | ERROR    | 6372 | 17836 | site_data_processing.py:231 | process_land_data | Error processing point at index 5: list index out of range

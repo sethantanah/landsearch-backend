@@ -1,0 +1,1 @@
+2025-01-01 22:19:25,407 | WARNING  | 27216 | 14624 | document_storage.py:73 | store_data_temp | Could not save site data {'code': '42501', 'details': None, 'hint': None, 'message': 'new row violates row-level security policy for table "data_processing_temp"'}

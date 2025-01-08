@@ -1,0 +1,120 @@
+2024-12-10 13:45:40,742 | INFO     | 4696 | 23820 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp_ide6sa0.tmp
+2024-12-10 13:45:41,282 | INFO     | 4696 | 23820 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:45:42,177 | INFO     | 4696 | 23820 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:45:42,178 | INFO     | 4696 | 23820 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:47:49,391 | INFO     | 21340 | 23460 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpv2xaidvx.tmp
+2024-12-10 13:47:49,443 | INFO     | 21340 | 23460 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:47:50,193 | INFO     | 21340 | 23460 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:47:50,193 | INFO     | 21340 | 23460 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:49:10,912 | INFO     | 18576 | 19264 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp3yy4dmgn.tmp
+2024-12-10 13:49:10,971 | INFO     | 18576 | 19264 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:49:11,785 | INFO     | 18576 | 19264 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:49:11,785 | INFO     | 18576 | 19264 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:49:29,595 | INFO     | 10632 | 12188 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpv2qln_5e.tmp
+2024-12-10 13:49:29,625 | INFO     | 10632 | 12188 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:49:30,064 | INFO     | 10632 | 12188 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:49:30,064 | INFO     | 10632 | 12188 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:50:16,417 | INFO     | 4928 | 7820 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpb1v3j4h8.tmp
+2024-12-10 13:50:16,446 | INFO     | 4928 | 7820 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:50:16,998 | INFO     | 4928 | 7820 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:50:16,999 | INFO     | 4928 | 7820 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:54:03,628 | INFO     | 20304 | 16164 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpzecf3co0.tmp
+2024-12-10 13:54:03,681 | INFO     | 20304 | 16164 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:54:04,514 | INFO     | 20304 | 16164 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:54:04,514 | INFO     | 20304 | 16164 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:57:10,142 | INFO     | 3716 | 20232 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpdfipfvnr.tmp
+2024-12-10 13:57:10,188 | INFO     | 3716 | 20232 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:57:11,075 | INFO     | 3716 | 20232 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:57:11,075 | INFO     | 3716 | 20232 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:57:43,031 | INFO     | 9700 | 27900 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpg0s5yqmj.tmp
+2024-12-10 13:57:43,064 | INFO     | 9700 | 27900 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:57:43,817 | INFO     | 9700 | 27900 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:57:43,819 | INFO     | 9700 | 27900 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:58:44,096 | INFO     | 24136 | 3384 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp5l_pg0i0.tmp
+2024-12-10 13:58:44,133 | INFO     | 24136 | 3384 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:58:44,918 | INFO     | 24136 | 3384 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:58:44,919 | INFO     | 24136 | 3384 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 13:59:39,610 | INFO     | 11316 | 25836 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp5dnucgj9.tmp
+2024-12-10 13:59:39,635 | INFO     | 11316 | 25836 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 13:59:40,017 | INFO     | 11316 | 25836 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 13:59:40,017 | INFO     | 11316 | 25836 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:01:34,786 | INFO     | 27436 | 25892 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpms462tqx.tmp
+2024-12-10 14:01:34,815 | INFO     | 27436 | 25892 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:01:35,156 | INFO     | 27436 | 25892 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:01:35,157 | INFO     | 27436 | 25892 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:01:55,431 | INFO     | 4072 | 27616 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpnp1gou_b.tmp
+2024-12-10 14:01:55,461 | INFO     | 4072 | 27616 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:01:55,835 | INFO     | 4072 | 27616 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:01:55,835 | INFO     | 4072 | 27616 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:04:27,542 | INFO     | 4144 | 16548 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpq6e4xiy_.tmp
+2024-12-10 14:04:27,589 | INFO     | 4144 | 16548 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:04:28,110 | INFO     | 4144 | 16548 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:04:28,110 | INFO     | 4144 | 16548 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:05:52,523 | INFO     | 2504 | 23644 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp4y12sx1l.tmp
+2024-12-10 14:05:52,554 | INFO     | 2504 | 23644 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:05:52,938 | INFO     | 2504 | 23644 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:05:52,938 | INFO     | 2504 | 23644 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:07:59,669 | INFO     | 25164 | 22900 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpp_pmy95y.tmp
+2024-12-10 14:07:59,722 | INFO     | 25164 | 22900 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:08:00,532 | INFO     | 25164 | 22900 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:08:00,532 | INFO     | 25164 | 22900 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:09:54,584 | INFO     | 24880 | 28232 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmph3d8nzd6.tmp
+2024-12-10 14:09:54,623 | INFO     | 24880 | 28232 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:09:55,071 | INFO     | 24880 | 28232 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:09:55,071 | INFO     | 24880 | 28232 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:10:38,147 | INFO     | 15080 | 14152 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpvom6s31a.tmp
+2024-12-10 14:10:38,180 | INFO     | 15080 | 14152 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:10:38,592 | INFO     | 15080 | 14152 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:10:38,592 | INFO     | 15080 | 14152 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 14:12:42,350 | INFO     | 27712 | 26452 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp5ofmo95_.tmp
+2024-12-10 14:12:42,394 | INFO     | 27712 | 26452 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 14:12:43,069 | INFO     | 27712 | 26452 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 14:12:43,070 | INFO     | 27712 | 26452 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:44:54,113 | INFO     | 29392 | 17164 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp26q1y109.tmp
+2024-12-10 21:44:54,149 | INFO     | 29392 | 17164 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:44:54,551 | INFO     | 29392 | 17164 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:44:54,551 | INFO     | 29392 | 17164 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:45:20,926 | INFO     | 23348 | 28692 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpes9uvge3.tmp
+2024-12-10 21:45:20,953 | INFO     | 23348 | 28692 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:45:21,273 | INFO     | 23348 | 28692 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:45:21,274 | INFO     | 23348 | 28692 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:51:08,628 | INFO     | 4844 | 25168 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp51yd20f_.tmp
+2024-12-10 21:51:08,685 | INFO     | 4844 | 25168 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:51:09,220 | INFO     | 4844 | 25168 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:51:09,221 | INFO     | 4844 | 25168 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:52:26,533 | INFO     | 19892 | 26984 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpjex8w2sz.tmp
+2024-12-10 21:52:26,561 | INFO     | 19892 | 26984 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:52:26,909 | INFO     | 19892 | 26984 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:52:26,910 | INFO     | 19892 | 26984 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:54:04,936 | INFO     | 28640 | 24328 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp4_8nopwb.tmp
+2024-12-10 21:54:04,963 | INFO     | 28640 | 24328 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:54:05,345 | INFO     | 28640 | 24328 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:54:05,345 | INFO     | 28640 | 24328 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:58:27,272 | INFO     | 13516 | 29300 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp0sjec4q1.tmp
+2024-12-10 21:58:27,306 | INFO     | 13516 | 29300 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:58:27,703 | INFO     | 13516 | 29300 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:58:27,703 | INFO     | 13516 | 29300 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 21:59:21,916 | INFO     | 2200 | 7660 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmppr07rfsj.tmp
+2024-12-10 21:59:21,942 | INFO     | 2200 | 7660 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 21:59:22,305 | INFO     | 2200 | 7660 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 21:59:22,305 | INFO     | 2200 | 7660 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 22:00:01,476 | INFO     | 29324 | 28784 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpf4yxfjac.tmp
+2024-12-10 22:00:01,515 | INFO     | 29324 | 28784 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 22:00:01,940 | INFO     | 29324 | 28784 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 22:00:01,940 | INFO     | 29324 | 28784 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 22:03:03,744 | INFO     | 22760 | 24712 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp1wl74it1.tmp
+2024-12-10 22:03:03,774 | INFO     | 22760 | 24712 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 22:03:04,159 | INFO     | 22760 | 24712 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 22:03:04,160 | INFO     | 22760 | 24712 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 22:03:25,285 | INFO     | 26176 | 9560 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmposfj5chi.tmp
+2024-12-10 22:03:25,316 | INFO     | 26176 | 9560 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 22:03:25,781 | INFO     | 26176 | 9560 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 22:03:25,781 | INFO     | 26176 | 9560 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 22:08:40,984 | INFO     | 4884 | 25112 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpq7d6wmzp.tmp
+2024-12-10 22:08:41,015 | INFO     | 4884 | 25112 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 22:08:41,407 | INFO     | 4884 | 25112 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 22:08:41,407 | INFO     | 4884 | 25112 | document_processing.py:195 | _process_image | Document processed successfully
+2024-12-10 22:19:02,296 | INFO     | 3164 | 17620 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmphoexqr4w.tmp
+2024-12-10 22:19:02,366 | INFO     | 3164 | 17620 | document_processing.py:117 | _process_image | Image processing complete
+2024-12-10 22:19:03,183 | INFO     | 3164 | 17620 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2024-12-10 22:19:03,183 | INFO     | 3164 | 17620 | document_processing.py:195 | _process_image | Document processed successfully

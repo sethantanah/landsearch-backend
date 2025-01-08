@@ -1,0 +1,111 @@
+2025-01-08 12:58:55,913 | INFO     | 368 | 22196 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpefvd80y5.tmp
+2025-01-08 12:58:56,536 | INFO     | 368 | 22196 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 12:58:57,648 | INFO     | 368 | 22196 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 12:58:57,648 | INFO     | 368 | 22196 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 13:29:33,520 | INFO     | 19548 | 84 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpbx_47g1_.tmp
+2025-01-08 13:29:33,596 | INFO     | 19548 | 84 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 13:29:34,704 | INFO     | 19548 | 84 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 13:29:34,705 | INFO     | 19548 | 84 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 13:31:37,395 | INFO     | 3964 | 14616 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp3h1yeks3.tmp
+2025-01-08 13:31:37,457 | INFO     | 3964 | 14616 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 13:31:38,437 | INFO     | 3964 | 14616 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 13:31:38,438 | INFO     | 3964 | 14616 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 13:35:42,963 | INFO     | 21472 | 11812 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp6x9e5nes.tmp
+2025-01-08 13:35:43,056 | INFO     | 21472 | 11812 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 13:35:44,109 | INFO     | 21472 | 11812 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 13:35:44,109 | INFO     | 21472 | 11812 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 13:57:42,479 | INFO     | 20640 | 20644 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpovpbdmz1.tmp
+2025-01-08 13:57:42,906 | INFO     | 20640 | 20644 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 13:57:45,718 | INFO     | 20640 | 20644 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 13:57:45,719 | INFO     | 20640 | 20644 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 14:01:32,763 | INFO     | 20640 | 20644 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpl6qnezuy.tmp
+2025-01-08 14:01:32,793 | INFO     | 20640 | 20644 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 14:01:34,323 | INFO     | 20640 | 20644 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 14:01:34,324 | INFO     | 20640 | 20644 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 14:02:56,079 | INFO     | 20640 | 20644 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmppd78kb6g.tmp
+2025-01-08 14:02:56,091 | INFO     | 20640 | 20644 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 14:02:56,940 | INFO     | 20640 | 20644 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 14:02:56,941 | INFO     | 20640 | 20644 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 14:07:33,660 | INFO     | 20640 | 20644 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpdbby269k.tmp
+2025-01-08 14:07:33,672 | INFO     | 20640 | 20644 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 14:07:34,560 | INFO     | 20640 | 20644 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 14:07:34,561 | INFO     | 20640 | 20644 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 14:08:06,144 | INFO     | 20640 | 20644 | document_processing.py:62 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpp5jitfw4.tmp
+2025-01-08 14:08:06,167 | INFO     | 20640 | 20644 | document_processing.py:117 | _process_image | Image processing complete
+2025-01-08 14:08:07,430 | INFO     | 20640 | 20644 | document_processing.py:191 | _process_image | Validation and Processing Completed
+2025-01-08 14:08:07,430 | INFO     | 20640 | 20644 | document_processing.py:195 | _process_image | Document processed successfully
+2025-01-08 14:10:59,500 | INFO     | 12564 | 21464 | document_processing.py:63 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmp151wqu4c.tmp
+2025-01-08 14:10:59,600 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:10:59,600 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:10:59,601 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:11:09,388 | INFO     | 12564 | 21464 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:11:09,388 | INFO     | 12564 | 21464 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:11:09,808 | ERROR    | 12564 | 21464 | document_processing.py:418 | _process_site_data | Failed to Process Site Data: max() iterable argument is empty
+2025-01-08 14:11:09,816 | INFO     | 12564 | 21464 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:11:09,817 | WARNING  | 12564 | 21464 | document_processing.py:201 | _process_image | Invalid result received, retrying...
+2025-01-08 14:11:09,818 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:11:09,818 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:11:09,819 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:11:18,712 | INFO     | 12564 | 21464 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:11:18,713 | INFO     | 12564 | 21464 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:11:18,789 | ERROR    | 12564 | 21464 | document_processing.py:418 | _process_site_data | Failed to Process Site Data: max() iterable argument is empty
+2025-01-08 14:11:18,790 | INFO     | 12564 | 21464 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:11:18,790 | WARNING  | 12564 | 21464 | document_processing.py:201 | _process_image | Invalid result received, retrying...
+2025-01-08 14:11:18,791 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:11:18,791 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:11:18,791 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:11:29,957 | INFO     | 12564 | 21464 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:11:29,958 | INFO     | 12564 | 21464 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:11:30,044 | ERROR    | 12564 | 21464 | document_processing.py:418 | _process_site_data | Failed to Process Site Data: max() iterable argument is empty
+2025-01-08 14:11:30,045 | INFO     | 12564 | 21464 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:11:30,045 | WARNING  | 12564 | 21464 | document_processing.py:201 | _process_image | Invalid result received, retrying...
+2025-01-08 14:11:31,217 | INFO     | 12564 | 21464 | document_processing.py:63 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpwr76_3vu.tmp
+2025-01-08 14:11:31,223 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:11:31,224 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:11:31,224 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:11:49,533 | INFO     | 12564 | 21464 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:11:49,534 | INFO     | 12564 | 21464 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:11:50,124 | INFO     | 12564 | 21464 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:11:50,124 | INFO     | 12564 | 21464 | document_processing.py:196 | _process_image | Document processed successfully
+2025-01-08 14:11:50,713 | INFO     | 12564 | 21464 | document_processing.py:63 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmpyj90_0zu.tmp
+2025-01-08 14:11:50,719 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:11:50,719 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:11:50,720 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:11:51,831 | INFO     | 12564 | 21464 | document_processing.py:368 | _gemini_model | GEMINI Failed to Extract Site Plan Data: 429 Resource has been exhausted (e.g. check quota).
+2025-01-08 14:11:51,831 | ERROR    | 12564 | 21464 | document_processing.py:205 | _process_image | Processing attempt 1 failed: 429 Resource has been exhausted (e.g. check quota).
+2025-01-08 14:11:53,832 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:11:53,832 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:11:53,833 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:11:55,364 | INFO     | 12564 | 21464 | document_processing.py:368 | _gemini_model | GEMINI Failed to Extract Site Plan Data: 429 Resource has been exhausted (e.g. check quota).
+2025-01-08 14:11:55,364 | ERROR    | 12564 | 21464 | document_processing.py:205 | _process_image | Processing attempt 2 failed: 429 Resource has been exhausted (e.g. check quota).
+2025-01-08 14:11:59,365 | INFO     | 12564 | 21464 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:11:59,366 | INFO     | 12564 | 21464 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:11:59,366 | INFO     | 12564 | 21464 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:12:18,236 | INFO     | 12564 | 21464 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:12:18,237 | INFO     | 12564 | 21464 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:12:18,553 | INFO     | 12564 | 21464 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:12:18,553 | INFO     | 12564 | 21464 | document_processing.py:196 | _process_image | Document processed successfully
+2025-01-08 14:27:49,003 | INFO     | 6372 | 17836 | document_processing.py:63 | process_document | Starting processing of C:\Users\SETHAN~1\AppData\Local\Temp\tmporfurzs6.tmp
+2025-01-08 14:27:49,233 | INFO     | 6372 | 17836 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:27:49,234 | INFO     | 6372 | 17836 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:27:49,236 | INFO     | 6372 | 17836 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:27:58,256 | INFO     | 6372 | 17836 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:27:58,256 | INFO     | 6372 | 17836 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:27:58,503 | ERROR    | 6372 | 17836 | document_processing.py:418 | _process_site_data | Failed to Process Site Data: max() iterable argument is empty
+2025-01-08 14:27:58,507 | INFO     | 6372 | 17836 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:27:58,507 | WARNING  | 6372 | 17836 | document_processing.py:201 | _process_image | Invalid result received, retrying...
+2025-01-08 14:27:58,508 | INFO     | 6372 | 17836 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:27:58,508 | INFO     | 6372 | 17836 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:27:58,509 | INFO     | 6372 | 17836 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:28:06,926 | INFO     | 6372 | 17836 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:28:06,926 | INFO     | 6372 | 17836 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:28:07,003 | ERROR    | 6372 | 17836 | document_processing.py:418 | _process_site_data | Failed to Process Site Data: max() iterable argument is empty
+2025-01-08 14:28:07,004 | INFO     | 6372 | 17836 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:28:07,004 | WARNING  | 6372 | 17836 | document_processing.py:201 | _process_image | Invalid result received, retrying...
+2025-01-08 14:28:07,004 | INFO     | 6372 | 17836 | document_processing.py:118 | _process_image | Image processing complete
+2025-01-08 14:28:07,004 | INFO     | 6372 | 17836 | document_processing.py:121 | _process_image | LLM Processing Started
+2025-01-08 14:28:07,005 | INFO     | 6372 | 17836 | document_processing.py:359 | _gemini_model | GEMINI CALL!
+2025-01-08 14:28:20,740 | INFO     | 6372 | 17836 | document_processing.py:123 | _process_image | LLM Processing Completed
+2025-01-08 14:28:20,741 | INFO     | 6372 | 17836 | document_processing.py:126 | _process_image | Validation and Processing Started
+2025-01-08 14:28:20,973 | INFO     | 6372 | 17836 | document_processing.py:192 | _process_image | Validation and Processing Completed
+2025-01-08 14:28:20,974 | INFO     | 6372 | 17836 | document_processing.py:196 | _process_image | Document processed successfully

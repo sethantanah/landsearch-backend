@@ -1,0 +1,49 @@
+2025-01-04 13:05:47,668 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 13:05:48,096 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 13:05:49,247 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 13:05:49,472 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 13:05:49,475 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 13:05:49,478 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 13:05:49,490 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully
+2025-01-04 14:22:30,950 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 14:22:31,095 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 14:22:31,638 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 14:22:31,775 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 14:22:31,776 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 14:22:31,778 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 14:22:31,780 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully
+2025-01-04 14:26:05,102 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 14:26:05,220 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 14:26:05,833 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 14:26:06,006 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 14:26:06,007 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 14:26:06,007 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 14:26:06,008 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully
+2025-01-04 14:30:19,760 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 14:30:19,840 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 14:30:20,490 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 14:30:20,655 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 14:30:20,657 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 14:30:20,658 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 14:30:20,659 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully
+2025-01-04 14:33:03,211 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 14:33:03,274 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 14:33:03,818 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 14:33:03,973 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 14:33:03,974 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 14:33:03,975 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 14:33:03,976 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully
+2025-01-04 14:35:24,508 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 14:35:24,620 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 14:35:25,196 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 14:35:25,380 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 14:35:25,381 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 14:35:25,383 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 14:35:25,385 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully
+2025-01-04 14:54:33,685 | INFO     | 21428 | 1172 | site_data_processing.py:37 | __init__ | Initializing LandDataProcessor
+2025-01-04 14:54:33,742 | INFO     | 21428 | 1172 | site_data_processing.py:175 | process_land_data | Starting land data processing
+2025-01-04 14:54:34,483 | INFO     | 21428 | 1172 | site_data_processing.py:235 | process_land_data | Processing boundary coordinates
+2025-01-04 14:54:34,697 | INFO     | 21428 | 1172 | site_data_processing.py:91 | find_reference_point | Finding reference point among 7 points
+2025-01-04 14:54:34,698 | INFO     | 21428 | 1172 | site_data_processing.py:113 | find_reference_point | Reference point found at index 6 with score 0.000835608036346865
+2025-01-04 14:54:34,699 | INFO     | 21428 | 1172 | site_data_processing.py:123 | corr_arrange_points | Arranging 6 points
+2025-01-04 14:54:34,700 | INFO     | 21428 | 1172 | site_data_processing.py:322 | process_land_data | Land data processing completed successfully

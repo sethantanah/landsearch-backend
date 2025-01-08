@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "landsearch"
+version = "0.1.0"
+description = ""
+authors = ["sethantanah <sethsyd32@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.115.6"
+google-generativeai = "^0.8.3"
+openai = "^1.57.0"
+pyproj = "^3.7.0"
+supabase = "^2.10.0"
+pdf2image = "^1.17.0"
+backoff = "^2.2.1"
+pydantic-settings = "^2.6.1"
+shapely = "^2.0.6"
+sentry-sdk = "^2.19.2"
+prometheus-client = "^0.21.1"
+uvicorn = "^0.32.1"
+python-multipart = "^0.0.19"
+cyberdb = "^0.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
