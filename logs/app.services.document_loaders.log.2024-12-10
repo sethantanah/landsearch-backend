@@ -1,7 +1,0 @@
-2024-12-10 22:45:14,338 | ERROR    | 25528 | 27504 | document_loaders.py:33 | load_and_validate | Unexpected error in data loading: [Errno 11001] getaddrinfo failed
-2024-12-10 22:48:19,725 | ERROR    | 24496 | 3720 | document_loaders.py:33 | load_and_validate | Unexpected error in data loading: 1 validation error for ProcessedLandData
-  Input should be a valid dictionary or instance of ProcessedLandData [type=model_type, input_value='53', input_type=str]
-    For further information visit https://errors.pydantic.dev/2.10/v/model_type
-2024-12-10 22:52:53,624 | ERROR    | 22812 | 12044 | document_loaders.py:35 | load_and_validate | Unexpected error in data loading: string indices must be integers, not 'str'
-2024-12-10 22:55:58,919 | ERROR    | 14108 | 27092 | document_loaders.py:34 | load_and_validate | Unexpected error in data loading: string indices must be integers, not 'str'
-2024-12-10 23:01:31,394 | ERROR    | 13160 | 23780 | document_loaders.py:36 | load_and_validate | Unexpected error in data loading: '_SpecialGenericAlias' object does not support item assignment

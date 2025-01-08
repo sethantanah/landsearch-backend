@@ -1,4 +1,0 @@
-2024-12-12 14:29:09,504 | ERROR    | 31856 | 15160 | search.py:87 | overlap_search | Error processing plot coordinates: could not convert string to float: 'x'
-2024-12-12 14:44:37,098 | ERROR    | 15668 | 34052 | search.py:87 | overlap_search | Error processing plot coordinates: could not convert string to float: 'x'
-2024-12-12 15:18:00,384 | ERROR    | 24940 | 31512 | search.py:87 | overlap_search | Error processing plot coordinates: float() argument must be a string or a real number, not 'tuple'
-2024-12-12 15:18:05,878 | ERROR    | 24940 | 31512 | search.py:87 | overlap_search | Error processing plot coordinates: float() argument must be a string or a real number, not 'tuple'

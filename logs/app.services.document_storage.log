@@ -1,9 +1,0 @@
-2025-01-08 13:00:14,869 | WARNING  | 368 | 22196 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:07:50,825 | WARNING  | 368 | 22196 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:09:14,327 | WARNING  | 368 | 22196 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:12:09,542 | WARNING  | 368 | 22196 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:13:25,615 | WARNING  | 368 | 22196 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:14:53,136 | WARNING  | 368 | 22196 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:19:24,409 | WARNING  | 8452 | 21548 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:22:17,089 | WARNING  | 8452 | 21548 | document_storage.py:64 | store_data | Could not save site data cannot access local variable 'e' where it is not associated with a value
-2025-01-08 13:23:44,931 | WARNING  | 4300 | 7068 | document_storage.py:60 | store_data | Could not delete data {'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input syntax for type bigint: "bd1e09ba-ba85-4814-8897-9051bb747a25"'}

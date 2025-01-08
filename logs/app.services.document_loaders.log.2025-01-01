@@ -1,2 +1,0 @@
-2025-01-01 11:18:22,534 | ERROR    | 15088 | 12632 | document_loaders.py:36 | load_and_validate | Unexpected error in data loading: [Errno 11001] getaddrinfo failed
-2025-01-01 22:30:20,065 | ERROR    | 20116 | 21740 | document_loaders.py:67 | load_and_validate_unprocessed_data | Unexpected error in data loading: {'code': 'PGRST100', 'details': 'unexpected "=" expecting "not" or operator (eq, gt, ...)', 'hint': None, 'message': '"failed to parse filter (=.12345)" (line 1, column 1)'}
