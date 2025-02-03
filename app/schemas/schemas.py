@@ -102,6 +102,7 @@ class PlotInfo(BaseModel):
     surveyors_reg_number: Optional[str] = None
     regional_number: Optional[str] = None
     reference_number: Optional[str] = None
+    is_search_plan: Optional[bool] = False
 
 
 class ProcessedLandData(BaseModel):

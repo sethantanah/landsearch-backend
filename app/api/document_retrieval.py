@@ -70,7 +70,8 @@ async def coords_search(
 
     search_data = []
     for item in land_data:
-        # if item.plot_info.plot_number == search_params.country:
+        if item.plot_info.plot_number == search_params.country:
+            item.plot_info.is_search_plan = True
         search_data.append(item)
     results = await coordinates_search(search_data, search_params)
     return {"data": {"items": results[0]}, "success": True, "message": "Search Results"}

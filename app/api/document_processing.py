@@ -54,8 +54,22 @@ async def store_unapproved_document(
     return APIResponse(data=data, message="Invalid Data", success=False)
 
 
-@router.put("/update-siteplan/{id}", response_model=APIResponse)
+@router.put("/update-siteplan-unapproved/{id}", response_model=APIResponse)
 async def update_unapproved_document(
+    storage: Annotated[SuperBaseStorage, Depends(get_supabase_storage)],
+    settings: Annotated[Settings, Depends(get_settings)],
+    data: ProcessedLandData,
+    id: str = None,
+):
+    if data:
+        document = data.model_dump()
+        storage.update_data(document, table="data_processing_temp")
+        return APIResponse(data=data, message="Sucessfully Stored", success=True)
+    return APIResponse(data=data, message="Invalid Data", success=False)
+
+
+@router.put("/update-siteplan/{id}", response_model=APIResponse)
+async def update_approved_document(
     storage: Annotated[SuperBaseStorage, Depends(get_supabase_storage)],
     settings: Annotated[Settings, Depends(get_settings)],
     data: ProcessedLandData,
