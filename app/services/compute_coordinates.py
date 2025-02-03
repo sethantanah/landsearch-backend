@@ -175,9 +175,10 @@ class ComputeCoordinates:
             if not coord["converted_coords"]["ref_point"]:
                 point_list.append(coord["converted_coords"])
 
-        if removeRef:
-            ref_index = self.find_reference_point(point_list)
-            point_list.pop(ref_index)
+        # if removeRef:
+        ref_index = self.find_reference_point(point_list)
+        point_list[ref_index]["ref_point"] = True
+        # point_list.pop(ref_index)
         data["point_list"] = self.order_points_by_bearing(point_list)
 
         for index, boundary in enumerate(data["boundary_points"]):
