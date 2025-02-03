@@ -154,7 +154,7 @@ class ComputeCoordinates:
         except Exception:
             raise
 
-    def process_data(self, data: dict) -> dict:
+    def process_data(self, data: dict, removeRef: bool = True) -> dict:
         survey_points = data["survey_points"]
         for index, point in enumerate(survey_points):
             original_coords = point["original_coords"]
@@ -175,8 +175,9 @@ class ComputeCoordinates:
             if not coord["converted_coords"]["ref_point"]:
                 point_list.append(coord["converted_coords"])
 
-        ref_index = self.find_reference_point(point_list)
-        point_list.pop(ref_index)
+        if removeRef:
+            ref_index = self.find_reference_point(point_list)
+            point_list.pop(ref_index)
         data["point_list"] = self.order_points_by_bearing(point_list)
 
         for index, boundary in enumerate(data["boundary_points"]):

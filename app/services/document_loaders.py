@@ -26,7 +26,9 @@ class SuperBaseDataLoader:
             land_data: List[Optional[ProcessedLandData]] = []
             for plot in data:
                 plot_data: Dict = plot["data"]
-                plot_data["id"] = plot_data.get("id", str(plot["id"]))
+                plot_data["id"] = str(
+                    plot["id"]
+                )  # plot_data.get("id", str(plot["id"]))
                 try:
                     plot_data = dict_to_proccessed_data_model(plot_data)
                     land_data.append(plot_data)

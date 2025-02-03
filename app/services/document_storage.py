@@ -26,7 +26,7 @@ class SuperBaseStorage:
             raise Exception("Supabase URL or API Key not set.")
         else:
             self.supabase = create_client(self.url, self.key)
-            
+
     def get_data(self, user_id: str = None, table: str = None) -> Dict:
         table_name = table or self.table_name
         response = (
@@ -39,11 +39,7 @@ class SuperBaseStorage:
 
     def get_data_all(self, table: str = None) -> Dict:
         table_name = table or self.table_name
-        response = (
-            self.supabase.table(table_name)
-            .select("*")
-            .execute()
-        )
+        response = self.supabase.table(table_name).select("*").execute()
         return response.data
 
     def store_data(self, data: Dict, user_id: str = None, table: str = None) -> Dict:
@@ -55,7 +51,9 @@ class SuperBaseStorage:
                     id = int(id)
                 except Exception:
                     pass
-                self.supabase.from_("data_processing_temp").delete().eq("id", id).execute()
+                self.supabase.from_("data_processing_temp").delete().eq(
+                    "id", id
+                ).execute()
             except Exception as e:
                 self.logger.warning(f"Could not delete data {str(e)}")
             payload: Dict = {"data": data, "user_id": user_id}
@@ -66,9 +64,26 @@ class SuperBaseStorage:
         else:
             return response
 
+    def update_data(self, data: Dict, table: str = None) -> Dict:
+        table_name = table or self.table_name
+        try:
+            try:
+                id = data.get("id", "")
+            except Exception as e:
+                self.logger.warning(f"Could not delete data {str(e)}")
+            payload: Dict = {"data": data}
+            response = (
+                self.supabase.table(table_name).update(payload).eq("id", id).execute()
+            )
+        except Exception as e:
+            self.logger.warning(f"Could not save site data {str(e)}")
+            return None
+        else:
+            return response
+
     def delete_document(self, table: str = None, doc_id: str = None):
         table_name = table or self.table_name
-        return self.supabase.table(table_name).delete().eq("id", 4).execute()
+        return self.supabase.from_(table_name).delete().eq("id", doc_id).execute()
 
     def get_unprocessed_data(
         self,

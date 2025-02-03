@@ -117,76 +117,14 @@ class DocumentProcessor:
                 processed_image = self._preprocess_image(image)
                 logger.info("Image processing complete")
 
-                # Send to LLM for extraction
+                # # Send to LLM for extraction
                 logger.info("LLM Processing Started")
                 result = self._send_to_llm(processed_image, model_type)
                 logger.info("LLM Processing Completed")
 
                 # process extracted data
                 logger.info("Validation and Processing Started")
-                result = JSONProcessor.extract_json_safely(
-                    result
-                )
-
-                # result = {
-                #     "owners": ["TRANSPORT RESEARCH & EDUCATION CENTRE, KUMASI (TRECK)"],
-                #     "plot_number": "15B",
-                #     "date": "02/02/2022",
-                #     "area": "1.78",
-                #     "metric": "Acres (0.72 Ha)",
-                #     "scale": "1: 2500",
-                #     "locality": "KNUST",
-                #     "district": "OFORIKROM",
-                #     "region": "ASHANTI",
-                #     "other_location_details": "Research Hills",
-                #     "surveyors_name": "DR. A. ARKO-ADJEI",
-                #     "surveyors_location": "P.O BOX UP 1703 KNUST-KUMASI",
-                #     "surveyors_reg_number": "316",
-                #     "regional_number": None,
-                #     "reference_number": None,
-                #     "site_plan_data": {
-                #         "plan_data": {
-                #             "from": [
-                #                 "KNUST.TREK.10/2021/1",
-                #                 "KNUST.TREK.10/2021/2",
-                #                 "KNUST.TREK.10/2021/3",
-                #                 "KNUST.TREK.10/2021/4",
-                #                 "KNUST.TREK.10/2021/5",
-                #                 "KNUST.CEPB.10/2021/2",
-                #                 "KNUST.CEPB.10/2021/3",
-                #                 "SGA.CORS 2020 3",
-                #             ],
-                #             "x_coords": [
-                #                 724125.686,
-                #                 724103.844,
-                #                 724089.96,
-                #                 724057.009,
-                #                 724197.311,
-                #                 724330.685,
-                #                 724294.927,
-                #                 732285.928,
-                #             ],
-                #             "ref": [True, True, True, True, True, True, True, True],
-                #             "y_coords": [
-                #                 695158.748,
-                #                 695149.339,
-                #                 695129.526,
-                #                 694842.085,
-                #                 694820.23,
-                #                 695135.853,
-                #                 694811.094,
-                #                 673148.096,
-                #             ],
-                #             "bearing": [],
-                #             "distance": [],
-                #             "to": [],
-                #         },
-                #         "north_easterns": {
-                #             "norths": [694500, 695500],
-                #             "easterns": [723500, 724500],
-                #         },
-                #     },
-                # }
+                result = JSONProcessor.extract_json_safely(result)
 
                 result = self._process_site_data(result)
                 logger.info("Validation and Processing Completed")

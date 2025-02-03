@@ -8,7 +8,7 @@ from app.config.dependencies import (
 )
 from app.config.settings import Settings
 from app.core.document_retrieval import (
-    delete_unprocessed_documents_superbase,
+    delete_documents_superbase,
     get_documents_superbase,
     get_unprocessed_documents_superbase,
 )
@@ -29,18 +29,6 @@ async def get_documents(
     documents = await get_documents_superbase(storage=storage, user_id=user)
     # document_cache.extend(documents)
     return {"data": {"items": documents}, "success": True, "message": "Data loaded"}
-
-
-# @router.get("/search/")
-# async def search_documents(
-#     storage: Annotated[SuperBaseStorage, Depends(get_supabase_storage)],
-#     settings: Annotated[Settings, Depends(get_settings)],
-#     document_cache=Depends(get_document_cache),
-#     user: str = None
-# ):
-#     documents = await get_documents_superbase(storage=storage, user_id=user)
-#     document_cache.extend(documents)
-#     return {"data": {"items": documents}, "success": True, "message": "Data loaded"}
 
 
 @router.get("/unapproved")
@@ -82,16 +70,7 @@ async def coords_search(
 
     search_data = []
     for item in land_data:
-        if item.plot_info.plot_number == search_params.country:
-            search_data.append(item)
-
+        # if item.plot_info.plot_number == search_params.country:
+        search_data.append(item)
     results = await coordinates_search(search_data, search_params)
     return {"data": {"items": results[0]}, "success": True, "message": "Search Results"}
-
-
-@router.delete("/delete-doc")
-async def delete_document(
-    storage: Annotated[SuperBaseStorage, Depends(get_supabase_storage)], doc_id: str
-):
-    res = delete_unprocessed_documents_superbase(storage, doc_id)
-    return res

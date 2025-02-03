@@ -58,8 +58,10 @@ async def prepare_doc(
     return results
 
 
-async def update_document(settings: Settings, data: ProcessedLandData):
+async def update_site_plan_coordinates(
+    settings: Settings, data: ProcessedLandData, removeRef: bool = False
+):
     # Recompute Corordinates
     doc_processor = ComputeCoordinates(settings=settings)
-    results = doc_processor.process_data(data.model_dump())
+    results = doc_processor.process_data(data.model_dump(), removeRef=removeRef)
     return ProcessedLandData.model_validate(results)

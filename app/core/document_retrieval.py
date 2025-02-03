@@ -18,12 +18,13 @@ async def get_unprocessed_documents_superbase(
     )
 
 
-def delete_unprocessed_documents_superbase(
+def delete_documents_superbase(
     storage: SuperBaseStorage,
     doc_id: str,
+    table: str
 ):
     data_loader = SuperBaseDataLoader(storage=storage)
 
     return data_loader.storage.delete_document(
-        doc_id=doc_id, table="data_processing_temp"
+        doc_id=doc_id, table=table
     )
