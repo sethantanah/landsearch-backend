@@ -26,6 +26,15 @@ async def get_documents(
     document_cache=Depends(get_document_cache),
     user: str = None,
 ):
+    """Retrieve all site plan documents.\n
+    Args:\n
+        storage: Storage service instance\n
+        settings: Application settings\n
+        document_cache: Cache for storing documents\n
+        user: Optional user ID to filter documents\n
+    Returns:\n
+        Dictionary containing documents, success status, and message\n
+    """
     documents = await get_documents_superbase(storage=storage, user_id=user)
     # document_cache.extend(documents)
     return {"data": {"items": documents}, "success": True, "message": "Data loaded"}
@@ -38,6 +47,15 @@ async def get_unprocessed_documents(
     userId: str = None,
     upload_id: str = None,
 ):
+    """Retrieve unapproved/unprocessed site plan documents.\n
+    Args:\n
+        storage: Storage service instance\n
+        settings: Application settings\n
+        userId: Optional user ID to filter documents\n
+        upload_id: Optional upload ID to filter documents\n
+    Returns:\n
+        Dictionary containing unprocessed documents, success status, and message\n
+    """
     documents = await get_unprocessed_documents_superbase(
         storage=storage, user_id=userId, upload_id=upload_id
     )
@@ -50,6 +68,14 @@ async def get_failed_documents(
     settings: Annotated[Settings, Depends(get_settings)],
     user_id: str = None,
 ):
+    """Retrieve documents that failed to upload.\n
+    Args:\n
+        storage: Storage service instance\n
+        settings: Application settings\n
+        user_id: Optional user ID to filter documents\n
+    Returns:\n
+        Dictionary containing failed documents, success status, and message\n
+    """
     documents = await get_unprocessed_documents_superbase(
         storage=storage, user_id=user_id, upload_id=None, status=0
     )
@@ -63,6 +89,15 @@ async def coords_search(
     search_params: SearchFilters,
     document_cache=Depends(get_document_cache),
 ):
+    """Search documents based on coordinates and filters.\n
+    Args:\n
+        storage: Storage service instance\n
+        settings: Application settings\n
+        search_params: Search filters and parameters\n
+        document_cache: Cache for storing documents\n
+    Returns:\n
+        Dictionary containing search results, success status, and message\n
+    """
     land_data = list(document_cache)
     if len(land_data) < 1:
         land_data = await get_documents_superbase(storage=storage)
